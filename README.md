@@ -27,7 +27,7 @@
 
 ## FUNCIONALIDADES A AGREGAR
 - Lograr un menu de opciones funcional, donde se pueda ajustar entre otras cosas, dificultad del juego y velocidad de desplazamiento.
-- Lograr que siempre haya un camino posible, y que no haya muerte "obligatoria" sino que dependa exclusivamente de las habilidades del jugador.
+- Lograr que siempre haya un camino posible, y que no haya posibilidades de muerte "obligatoria" sino que dependa exclusivamente de las habilidades del jugador.
 
 
 ## Estructura de Carpetas
