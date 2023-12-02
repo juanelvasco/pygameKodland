@@ -1,6 +1,6 @@
 # HiriRUNNER - Juego en Pygame
 
-¡Bienvenido a HiriRUNNER! Este es un juego simple creado con Pygame, donde controlas a un jugador que debe esquivar enemigos y acumular puntos. Aquí hay una breve descripción y guía de cómo funciona el código.
+¡Bienvenido a HiriRUNNER! Este es un juego simple creado con Pygame, donde controlas a un jugador que debe esquivar enemigos y acumular puntos. Aquí hay una breve descripción y guía de cómo funciona.
 
 ## Controles del Juego
 
